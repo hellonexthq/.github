@@ -1,2 +1,2 @@
 # .github
-Public Github health files
+Public Hellonext GitHub health files.
